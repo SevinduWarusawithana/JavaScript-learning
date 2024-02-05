@@ -13,7 +13,7 @@ document.getElementById('myP').textContent = 'I like pizza';
 //this is just a comment
 
 
-
+//VARIABLES
 /*
 let x;
 x = '123';
@@ -59,10 +59,46 @@ console.log(x);
  
 
 
-
+//ARITHMETIC OPERATORS
 // let students = 30;
 // // students = students + 1;
 // // students += 1;
 // // students = students % 2;
 
 // console.log(students);
+
+
+//ACCEPT USER INPUTS IN WINDOW PROMT
+// let username;
+// // username = window.prompt(`Enter your user name : `);
+// console.log(username);
+
+//ACCEPT USER INPUTS IN HRML TEXTBOX
+// let username;
+// document.getElementById(`mySubmit`).onclick = function(){
+//     username = document.getElementById(`myText`).value;
+//     document.getElementById(`heading`).textContent = `Hello ${username}`
+// } 
+
+
+
+
+//TYPE CONVERSION
+// let age = Number(window.prompt(`Enter your age : `));
+// age += 1;
+// console.log(age, typeof age);
+
+// x = ``;
+// y = ``;
+// z = ``;
+
+// x = Number(x);
+// y = String(y);
+// z = Boolean(z);
+
+// console.log(x, typeof x);
+// console.log(y, typeof y);
+// console.log(z, typeof z);
+
+
+
