@@ -102,3 +102,16 @@ console.log(x);
 
 
 
+
+
+// const pi = 3.14159;
+// let radius;
+// let circumference;
+
+// document.getElementById(`butt`).onclick = function() {
+//     radius = document.getElementById(`in`).value;
+//     radius = Number(radius);
+//     circumference = 2 * pi * radius;
+//     document.getElementById(`out`).textContent = `Circumference is : ${circumference} cm`;
+// }
+
