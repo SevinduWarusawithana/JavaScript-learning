@@ -1,4 +1,37 @@
-body {
+/* body {
     font-family: Verdana;
     font-size: 2em;
+} */
+
+
+
+
+
+/* COUNTER BUTTONS
+
+#number {
+    font-size: 10em;
+    display: block;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
+
+#buttons {
+    text-align: center;
+    gap: 40px;
+    
+}
+
+.btn {
+    padding: 10px 20px;
+    font-size: 1.5em;
+    color: white;
+    background-color: rgb(173, 118, 224);
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+
+.btn:hover {
+    background-color: darkmagenta;
+} */
