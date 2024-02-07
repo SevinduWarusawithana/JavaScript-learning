@@ -13,12 +13,16 @@ document.getElementById('myP').textContent = 'I like pizza';
 //this is just a comment
 
 
+
+
 //VARIABLES
+
 /*
 let x;
 x = '123';
 console.log(x);
 */
+
 
 
 
@@ -59,7 +63,10 @@ console.log(x);
  
 
 
+
+
 //ARITHMETIC OPERATORS
+
 // let students = 30;
 // // students = students + 1;
 // // students += 1;
@@ -68,12 +75,21 @@ console.log(x);
 // console.log(students);
 
 
+
+
+
 //ACCEPT USER INPUTS IN WINDOW PROMT
+
 // let username;
 // // username = window.prompt(`Enter your user name : `);
 // console.log(username);
 
+
+
+
+
 //ACCEPT USER INPUTS IN HRML TEXTBOX
+
 // let username;
 // document.getElementById(`mySubmit`).onclick = function(){
 //     username = document.getElementById(`myText`).value;
@@ -83,7 +99,9 @@ console.log(x);
 
 
 
+
 //TYPE CONVERSION
+
 // let age = Number(window.prompt(`Enter your age : `));
 // age += 1;
 // console.log(age, typeof age);
@@ -105,6 +123,7 @@ console.log(x);
 
 
 // CALCULATING CIRCUMFERENCE
+
 // const pi = 3.14159;
 // let radius;
 // let circumference;
@@ -115,6 +134,7 @@ console.log(x);
 //     circumference = 2 * pi * radius;
 //     document.getElementById(`out`).textContent = `Circumference is : ${circumference} cm`;
 // }
+
 
 
 
