@@ -104,6 +104,7 @@ console.log(x);
 
 
 
+// CALCULATING CIRCUMFERENCE
 // const pi = 3.14159;
 // let radius;
 // let circumference;
