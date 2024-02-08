@@ -15,7 +15,7 @@ document.getElementById('myP').textContent = 'I like pizza';
 
 
 
-//VARIABLES
+/* VARIABLES */
 
 /*
 let x;
@@ -65,7 +65,7 @@ console.log(x);
 
 
 
-//ARITHMETIC OPERATORS
+/* ARITHMETIC OPERATORS */
 
 // let students = 30;
 // // students = students + 1;
@@ -78,7 +78,7 @@ console.log(x);
 
 
 
-//ACCEPT USER INPUTS IN WINDOW PROMT
+/* ACCEPT USER INPUTS IN WINDOW PROMT */
 
 // let username;
 // // username = window.prompt(`Enter your user name : `);
@@ -88,7 +88,7 @@ console.log(x);
 
 
 
-//ACCEPT USER INPUTS IN HRML TEXTBOX
+/* ACCEPT USER INPUTS IN HRML TEXTBOX */
 
 // let username;
 // document.getElementById(`mySubmit`).onclick = function(){
@@ -100,7 +100,7 @@ console.log(x);
 
 
 
-//TYPE CONVERSION
+/* TYPE CONVERSION */
 
 // let age = Number(window.prompt(`Enter your age : `));
 // age += 1;
@@ -122,7 +122,7 @@ console.log(x);
 
 
 
-// CALCULATING CIRCUMFERENCE
+/* CALCULATING CIRCUMFERENCE */
 
 // const pi = 3.14159;
 // let radius;
@@ -139,7 +139,7 @@ console.log(x);
 
 
 
-// COUNTER PROGRAM
+/* COUNTER PROGRAM */
 
 // const decrease = document.getElementById(`decrease`);
 // const reset = document.getElementById(`reset`);
@@ -164,3 +164,28 @@ console.log(x);
 // }
 
 
+
+
+/* MATH */ 
+
+// let x = 60;
+// let y = 2;
+// let z = 133;
+
+// // z = Math.round(x);
+// // z = Math.floor(x);
+// // z = Math.ceil(x);
+// // z = Math.trunc(x);
+// // z = Math.pow(x, y);
+// // z = Math.sqrt(x);
+// // z = Math.log(x);
+// // z = Math.sin(x);
+// // z = Math.cos(x);
+// // z = Math.tan(x);
+// // z = Math.abs(x);
+// // z = Math.sign(x);
+
+// let max = Math.max(x, y, z);
+// let min = Math.min(x, y, z);
+
+// console.log(min);
