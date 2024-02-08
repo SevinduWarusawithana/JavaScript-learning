@@ -7,9 +7,9 @@
 
 
 
-/* COUNTER BUTTONS
+/* COUNTER BUTTONS */
 
-#number {
+/* #number {
     font-size: 10em;
     display: block;
     text-align: center;
@@ -34,10 +34,15 @@
 
 .btn:hover {
     background-color: darkmagenta;
-} */
+}  */
 
 
-body {
+
+
+
+/* RANDOM NUMBER GENERATOR */
+
+/* body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
 }
@@ -50,4 +55,7 @@ body {
 
 #lab1, #lab2, #lab3 {
     font-size: 3em;
-}
+} */
+
+
+
