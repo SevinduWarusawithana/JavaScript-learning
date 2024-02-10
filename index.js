@@ -172,17 +172,17 @@ console.log(x);
 // let y = 2;
 // let z = 133;
 
-// // z = Math.round(x);
-// // z = Math.floor(x);
-// // z = Math.ceil(x);
+// // z = Math.round(x);        asanna purna agayata watayanawa
+// // z = Math.floor(x);        pahala purna agayata watayanawa
+// // z = Math.ceil(x);         ihala purna agayata watayanawa
 // // z = Math.trunc(x);
-// // z = Math.pow(x, y);
-// // z = Math.sqrt(x);
-// // z = Math.log(x);
-// // z = Math.sin(x);
-// // z = Math.cos(x);
-// // z = Math.tan(x);
-// // z = Math.abs(x);
+// // z = Math.pow(x, y);       sankya dekaka balaya balanawa... ex- 2*3 = 8  mulin thiyena eke mulin enne
+// // z = Math.sqrt(x);         samachathurasraya gana kiyanawa
+// // z = Math.log(x);          lagu balanna puluwn
+// // z = Math.sin(x);          sin eka
+// // z = Math.cos(x);          cos eka
+// // z = Math.tan(x);          tan eka
+// // z = Math.abs(x);          input ekata deeela thiyena ganama output karanwa
 // // z = Math.sign(x);
 
 // let max = Math.max(x, y, z);
