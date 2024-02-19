@@ -231,11 +231,35 @@ console.log(x);
 
 /* IF STATEMENT */ 
 
-let age = 13;
+// let age = 13;
 
-if(age >= 18) {
-    console.log("Your age is enough to enter this site");
-}
-else {
-    console.log("You must be 18+ to enter this site")
-}   
+// if(age >= 18) {
+//     console.log("Your age is enough to enter this site");
+// }
+// else {
+//     console.log("You must be 18+ to enter this site")
+// }   
+
+
+
+
+// let age = 18;
+
+// if(age >= 17) {
+//     console.log("Your age is enough to drive");
+
+//     if(age >= 18) {
+//         console.log("Surely you have a driving licence");
+//     }
+//     else {
+//         console.log("But you have a temporary driving licence");
+//     }
+// }
+// else {
+//     console.log("You must be 17+ to have at least temporary driving licence");
+// }
+
+
+
+
+
