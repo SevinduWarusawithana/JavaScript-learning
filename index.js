@@ -238,4 +238,4 @@ if(age >= 18) {
 }
 else {
     console.log("You must be 18+ to enter this site")
-}
+}   
