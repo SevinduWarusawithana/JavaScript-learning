@@ -229,3 +229,13 @@ console.log(x);
 
 
 
+/* IF STATEMENT */ 
+
+let age = 13;
+
+if(age >= 18) {
+    console.log("Your age is enough to enter this site");
+}
+else {
+    console.log("You must be 18+ to enter this site")
+}
