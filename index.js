@@ -255,11 +255,33 @@ console.log(x);
 //         console.log("But you have a temporary driving licence");
 //     }
 // }
+// else if(age <= 0) {
+//     console.log("Please enter a valid age");
+// }
 // else {
 //     console.log("You must be 17+ to have at least temporary driving licence");
 // }
 
 
+
+
+// const myText = document.getElementById("myText");
+// const mySubmit = document.getElementById("mySubmit");
+// const resultElement = document.getElementById("resultElement");
+
+// let age;
+
+// mySubmit.onclick = function() {
+//     age = Number(myText.value)
+//     if(age >= 18) {
+//         resultElement.textContent = `Your age is enough to  this site`;
+//     }
+//     else {
+//         resultElement.textContent = `You must be 18+ to enter this site`;
+//     } 
+// }
+
+  
 
 
 
