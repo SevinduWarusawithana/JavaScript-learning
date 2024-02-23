@@ -320,3 +320,39 @@ console.log(x);
 //         paymentResults.textContent = `You must select a payment method`;
 //     }
 // }
+
+
+
+
+
+/* TERNARY OPERATOR */ 
+
+// let age = 21;
+// let result = age >= 18 ? `Your are a adult` : `Your are a child`;
+// console.log(result);
+
+
+
+
+// let time = 13;
+// let greeting = time >= 12 ? `Good Afternooon` : `Good Morning`;
+// console.log(greeting);
+
+
+
+
+// let student = false;
+// let message = student ? `Your are a student` : `Youe are NOT a student`;
+// console.log(message); 
+
+
+
+
+// let price = 99;
+// let discount = price >= 100 ? 10 : 0;
+// console.log(`Your toatal price is $${price - price * (discount/100)}`);
+
+
+
+
+
