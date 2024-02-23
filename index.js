@@ -285,3 +285,38 @@ console.log(x);
 
 
 
+/* CHECKED PROPERT */ 
+
+// const myCheckbox = document.getElementById("myCheckbox");
+// const visaBtn = document.getElementById("visaBtn");
+// const masterCardBtn = document.getElementById("masterCardBtn");
+// const payPal = document.getElementById("payPal");
+// const submitBtn = document.getElementById("submitBtn");
+// const subResults = document.getElementById("subResults");
+// const paymentResults = document.getElementById("paymentResults");
+
+// submitBtn.onclick = function() {
+
+//     if(myCheckbox.checked) {
+//         subResults.textContent = `You are subscribed`;
+//     }
+//     else {
+//         subResults.textContent = `You are NOT subscribed`;
+//     }
+
+//     if(visaBtn.checked) {
+//         paymentResults.textContent = `You are paying via Visa Card`;
+//     }
+
+//     else if(masterCardBtn.checked) {
+//         paymentResults.textContent = `You are paying via Master Card`;
+//     }
+
+//     else if(payPal.checked) {
+//         paymentResults.textContent = `You are paying via PayPal`;
+//     }
+
+//     else {
+//         paymentResults.textContent = `You must select a payment method`;
+//     }
+// }
