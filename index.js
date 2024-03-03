@@ -410,3 +410,121 @@ console.log(x);
 // }
 
 // console.log(letterGrade)
+
+
+
+
+/* STRING METHODS */ 
+
+// let userName = "Sevindu";
+
+
+
+// console.log(userName.charAt(0)); /*awashya thene thiyena character eka mokkd kiyla balanna puluwn */
+
+
+
+
+// console.log(userName.indexOf("v")); /* awashya character eka thiyena thena dena ganna puluwn */ 
+
+
+
+
+// console.log(userName.length); /* mn deepu string eke letter count eka balanna puluwn */ 
+
+
+
+
+// userName = userName.trim();
+// console.log(userName); /* white spaces ain karanna puluwn */ 
+
+
+
+
+// userName = userName.toUpperCase();
+// console.log(userName); /* mn deepu string eke letters okkoma upercase karana puluwn */
+
+
+
+
+// userName = userName.toLowerCase();
+// console.log(userName); /* mn deepu string eke letters okkoma lowercase karana puluwn */
+
+
+
+
+// userName = userName.repeat(3);
+// console.log(userName); /* mn deepu string eka kochchara pramanayak repeat karanna oneda kiyla */ 
+
+
+
+
+// let start = userName.startsWith(" ");
+
+// console.log(start); /* mn deepu string eka patan aran thiyenne kohomada kiyla balanna puluwn */ 
+
+// if(start) {
+//     console.log("your name can't begin with ' '");
+// }
+// else {
+//     console.log(userName);
+// }    /* meeka if statment eka use karana kota udaw wenawa */ 
+
+
+
+
+// let end = userName.endsWith(" ");
+
+// console.log(end); /* mn deepu string eka iwara wela thiyenne kohomada kiyla balanna puluwn */ 
+
+// if(end) {
+//     console.log("your name can't end with ' '");
+// }
+// else {
+//     console.log(userName);
+// }    /* meeka if statment eka use karana kota udaw wenawa */ 
+
+
+
+
+// let result = userName.includes(" ");
+
+// console.log(result); /* mn deepu string eke awashya dewal ain karanna use karanna puluwn */ 
+
+// if(result) {
+//     console.log("your name can't include ' '");
+// }
+// else {
+//     console.log(userName);
+// }     
+
+
+
+
+// let phoneNumber = "012-345-6789";
+
+// phoneNumber = phoneNumber.replaceAll("-", " ");  /* apita anawashay dewal replace karanna puluwn */
+
+// console.log(phoneNumber);
+
+
+
+
+// let phonenumber = "012-345-6789";
+
+// phonenumber = phonenumber.padStart(15, "0");  /* apita one length eka denna... madi nm eya api "" athule dena character eken ithiri tika start eke idan fill kara gannawaa */
+
+// console.log(phonenumber); 
+
+
+
+
+// let number = "012-345-6789";
+
+// number = number.padEnd(15, "0");  /* apita one length eka denna... madi nm eya api "" athule dena character eken ithiri tika end eke idan fill kara gannawaa */
+
+// console.log(number);
+
+
+
+
