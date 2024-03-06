@@ -528,3 +528,8 @@ console.log(x);
 
 
 
+/* STRING SLICING */ 
+
+
+
+
